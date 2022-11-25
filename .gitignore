@@ -39,3 +39,5 @@ $RECYCLE.BIN/
 # Local environment variables
 .env
 .vscode/
+server.crt
+server.key
