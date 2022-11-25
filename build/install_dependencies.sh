@@ -5,3 +5,5 @@ sudo npm install -global sfdx-cli
 
 echo y | sfdx plugins:install sfdx-git-delta
 sfdx plugins
+
+sfdx config:set defaultusername=$SANDBOX_USERNAME
