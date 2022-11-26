@@ -7,6 +7,6 @@
   ],
   "name": "DevEnvoinromet",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://applaudo-a-dev-ed.my.salesforce.com",
   "sourceApiVersion": "55.0"
 }
